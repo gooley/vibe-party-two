@@ -1,0 +1,133 @@
+{
+  "photos": [
+    {
+      "filename": "test_photo_01.jpg",
+      "path": "test_photos/test_photo_01.jpg",
+      "created_time": "2025-07-07T21:31:20.917561",
+      "round_eliminated": null,
+      "score": 0.22475216545653143
+    },
+    {
+      "filename": "test_photo_02.jpg",
+      "path": "test_photos/test_photo_02.jpg",
+      "created_time": "2025-07-07T21:31:20.918561",
+      "round_eliminated": 3,
+      "score": 0.7364501539711517
+    },
+    {
+      "filename": "test_photo_03.jpg",
+      "path": "test_photos/test_photo_03.jpg",
+      "created_time": "2025-07-07T21:31:20.918561",
+      "round_eliminated": 2,
+      "score": 0.5570426034162764
+    },
+    {
+      "filename": "test_photo_04.jpg",
+      "path": "test_photos/test_photo_04.jpg",
+      "created_time": "2025-07-07T21:31:20.919561",
+      "round_eliminated": 2,
+      "score": 0.4536854435311598
+    },
+    {
+      "filename": "test_photo_05.jpg",
+      "path": "test_photos/test_photo_05.jpg",
+      "created_time": "2025-07-07T21:31:20.919561",
+      "round_eliminated": 1,
+      "score": 0.10697457756009743
+    },
+    {
+      "filename": "test_photo_07.jpg",
+      "path": "test_photos/test_photo_07.jpg",
+      "created_time": "2025-07-07T21:31:20.920561",
+      "round_eliminated": 1,
+      "score": 0.762199817807078
+    },
+    {
+      "filename": "test_photo_06.jpg",
+      "path": "test_photos/test_photo_06.jpg",
+      "created_time": "2025-07-07T21:31:20.920561",
+      "round_eliminated": 1,
+      "score": 0.2094667207347467
+    },
+    {
+      "filename": "test_photo_08.jpg",
+      "path": "test_photos/test_photo_08.jpg",
+      "created_time": "2025-07-07T21:31:20.921561",
+      "round_eliminated": 1,
+      "score": 0.32512662845971274
+    }
+  ],
+  "rounds": [
+    {
+      "round_number": 0,
+      "photos_entered": [
+        "test_photo_01.jpg",
+        "test_photo_02.jpg",
+        "test_photo_03.jpg",
+        "test_photo_04.jpg",
+        "test_photo_05.jpg",
+        "test_photo_07.jpg",
+        "test_photo_06.jpg",
+        "test_photo_08.jpg"
+      ],
+      "photos_advanced": [
+        "test_photo_01.jpg",
+        "test_photo_02.jpg",
+        "test_photo_03.jpg",
+        "test_photo_04.jpg",
+        "test_photo_05.jpg",
+        "test_photo_07.jpg",
+        "test_photo_06.jpg",
+        "test_photo_08.jpg"
+      ],
+      "completed": true
+    },
+    {
+      "round_number": 1,
+      "photos_entered": [
+        "test_photo_01.jpg",
+        "test_photo_02.jpg",
+        "test_photo_03.jpg",
+        "test_photo_04.jpg",
+        "test_photo_05.jpg",
+        "test_photo_07.jpg",
+        "test_photo_06.jpg",
+        "test_photo_08.jpg"
+      ],
+      "photos_advanced": [
+        "test_photo_01.jpg",
+        "test_photo_02.jpg",
+        "test_photo_03.jpg",
+        "test_photo_04.jpg"
+      ],
+      "completed": true
+    },
+    {
+      "round_number": 2,
+      "photos_entered": [
+        "test_photo_01.jpg",
+        "test_photo_02.jpg",
+        "test_photo_03.jpg",
+        "test_photo_04.jpg"
+      ],
+      "photos_advanced": [
+        "test_photo_01.jpg",
+        "test_photo_02.jpg"
+      ],
+      "completed": true
+    },
+    {
+      "round_number": 3,
+      "photos_entered": [
+        "test_photo_01.jpg",
+        "test_photo_02.jpg"
+      ],
+      "photos_advanced": [
+        "test_photo_01.jpg"
+      ],
+      "completed": true
+    }
+  ],
+  "current_round": 3,
+  "completed": true
+}
